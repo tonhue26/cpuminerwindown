@@ -1,0 +1,1 @@
+cpuminer-avx2 -a lyra2z330 -o stratum+tcp://hxx-pool1.chainsilo.com:3032 -u minhthang.1 -p x
